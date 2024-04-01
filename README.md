@@ -1,8 +1,9 @@
 # Dan Wadleigh: AWS Cloud Engineer | Code Character
 - Portfolio Site: [https://CodeCharacter.dev](https://CodeCharacter.dev)
-- Resume Site: [https://DanWadleigh.dev](https://DanWadleigh.dev)
+    - Resume Site: [https://DanWadleigh.dev](https://DanWadleigh.dev)
+    - Cloud Resume Challenge Project: ["Semper Gumby: A Marine's Journey in the Cloud"](https://codecharacter.dev/semper-gumby-a-marines-journey-in-the-cloud)
 - LinkedIn Profile: [https://linkedin.com/in/danwadleigh](https://linkedin.com/in/danwadleigh)
-- Cloud Resume Challenge Project: ["Semper Gumby: A Marine's Journey in the Cloud"](https://codecharacter.dev/semper-gumby-a-marines-journey-in-the-cloud)
+
 <!--
 **codecharacter/codecharacter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
