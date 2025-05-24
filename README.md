@@ -1,4 +1,4 @@
-# Dan Wadleigh: Cloud Engineer (AWS/GCP) | Code Character
+# Dan Wadleigh: Cloud Engineer | Code Character
 > Code Character: NOT a persona but the continuous pursuit of improving character - Coder & code.
 - Portfolio Site: [https://CodeCharacter.dev](https://CodeCharacter.dev)
     - Resume Site: [https://DanWadleigh.dev](https://DanWadleigh.dev)
